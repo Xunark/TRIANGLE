@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+span{
+    border-bottom: 100px solid rgb(180, 22, 69);
+    border-right: 50px solid transparent;
+    border-left: 50px solid transparent;
+}
